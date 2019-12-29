@@ -8,13 +8,15 @@
 
 |input1|input2|input3|
 |:--|:--|:--|
-|`bash ***.sh`|`abc`|`def`|
-||`ghi`|`jkl`|
+|`bash mv`|`hoge`|`fuga`|
+||`hooge`|`fga`|
+||`hoooge`|`fugagaga`|
 
 
 output
 
 ```.bash
-bash ***.sh abc def
-bash ***.sh ghi jkl
+bash mv hoge fuga
+bash mv hooge fga
+bash mv hoooge fugagaga
 ```
